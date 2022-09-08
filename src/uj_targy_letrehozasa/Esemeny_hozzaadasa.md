@@ -32,7 +32,9 @@ Itt az eseményben résztvevő személyt/intézményt *(pl. készítő, felhaszn
 
 A kérdőszóra kattintás után az adott vonatkozás (szereplő / helység / időbeli vonatkozás) keresési mezőjének kitöltésénél az adat gépelése közben felugrik a rendszer adatbázisában megtalálható, hasonló elemeinek listája, ahonnan kiválasztható a kívánt elem.
 
-![](../assets/hun_attention.jpg) Az adatok duplikálásának elkerülése végett mindig ellenőrizze, hogy nem-e szerepel már valamilyen formában az éppen felvételre kerülő adat a javaslati listán!
+```admonish info
+Az adatok duplikálásának elkerülése végett mindig ellenőrizze, hogy nem-e szerepel már valamilyen formában az éppen felvételre kerülő adat a javaslati listán!
+```
 
 Ha nincs -- vagy nem helyesen szerepel -- a listán a bevinni kívánt meghatározás, akkor lehetőség van új elemként való felvételére. Minden esetben a keresőmező kitöltése után ENTER billentyűt nyomva lehet felvenni új adatot.
 
