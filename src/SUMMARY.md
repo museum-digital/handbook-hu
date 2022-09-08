@@ -25,4 +25,4 @@
 - [Mellékletek]()
   - [Útmutató földrajzi vonatkozások felvételéhez](./Mellekletek/utmutato_a_foldrajzi_vonatkozasok_felvetelehez.md)
   - [Útmutató időbeli vonatkozások felvételéhez](./Mellekletek/utmutato_idobeli_vonatkozasok_felvetelehez.md)
-
+- [TEST](./TEST/test.md)
