@@ -2,7 +2,7 @@
 
 A weboldalon publikált tárgyak között kulcsszavak alapján is lehet keresni. A tárgyak ilyen módon történő rendezett/irányított visszakereshetősége érdekében az adatbevitel során a rendszerben található kulcsszó-adatbázisból lehet az adott tárgy visszakeresését elősegítő kulcsszavakat felvenni.
 
-**![](../assets/hun_attention.jpg) Kulcsszavak felvétele esetében is egységes és következetes adatbevitelre kell törekedni!** Hasonló tárgyak esetén azonos kulcsszavakat érdemes felvenni, hiszen csak így lesz célravezető a kulcsszavakkal történő tárgyösszekötés.
+**⚠️ Kulcsszavak felvétele esetében is egységes és következetes adatbevitelre kell törekedni!** Hasonló tárgyak esetén azonos kulcsszavakat érdemes felvenni, hiszen csak így lesz célravezető a kulcsszavakkal történő tárgyösszekötés.
 
 Kulcsszavak felvétele az „Alapadatok" fülön a Kulcsszó hozzáadása! opcióra kattintással lehet.
 

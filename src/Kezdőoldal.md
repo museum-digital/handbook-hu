@@ -1,7 +1,5 @@
 # Kezdőoldal
 
-![](assets/hun_handbook_cover.jpg)
-
 A MúzeumDigitár gyűjteménykezelő és publikációs rendszer egyrészt a
 múzeumok, köz- és magángyűjtemények mindennapi nyilvántartási és
 gyűjteménykezelési feladatait segíti, másrészt az interneten keresztül a

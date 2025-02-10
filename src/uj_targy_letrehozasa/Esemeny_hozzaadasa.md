@@ -64,7 +64,7 @@ Az új közreműködő felvételénél első lépésként ki kell választani a 
 
 ![A Hol? (földrajzi) vonatkozásra kattintás után megjelenő adatbeviteli mező](../assets/hun_new_geo01.jpg)
 
-![](../assets/hun_attention.jpg) **A földrajzi vonatkozások egységes és helyes kitöltéséhez külön táblázat nyújt segítséget, lásd a szabályzat** *I. számú mellékletét. (kattints az ugráshoz)*](Mellekletek/utmutato_a_foldrajzi_vonatkozasok_felvetelehez.md)
+⚠️ **A földrajzi vonatkozások egységes és helyes kitöltéséhez külön táblázat nyújt segítséget, lásd a szabályzat** *I. számú mellékletét. (kattints az ugráshoz)*](Mellekletek/utmutato_a_foldrajzi_vonatkozasok_felvetelehez.md)
 
 Ha a mezőbe gépelés során felugró listán nincs -- vagy nem helyesen szerepel -- a bevinni kívánt meghatározás, akkor lehetőség van új elemként való felvételére. A keresőmező kitöltése után ENTER billentyűt
 nyomva lehet felvenni új adatot.
@@ -79,7 +79,7 @@ A megjelenő térképen a Google-térképekhez hasonlóan húzással lehet helyz
 
 ![A földrajzi vonatkozás helyének meghatározása](../assets/hun_new_geo03.jpg)
 
-![](../assets/hun_attention.jpg) **Ha a tárgyhoz kapcsolódó földrajzi vonatkozás szenzitív adatnak minősül** (pl. pontos régészeti helyszín vagy fotó készítésének pontos helyszíne esetén), akkor ne az Eseménynél, hanem a „Kiegészítő" fül  Pontos helyszín mezőben vegye fel a kívánt adatot.
+⚠️ **Ha a tárgyhoz kapcsolódó földrajzi vonatkozás szenzitív adatnak minősül** (pl. pontos régészeti helyszín vagy fotó készítésének pontos helyszíne esetén), akkor ne az Eseménynél, hanem a „Kiegészítő" fül  Pontos helyszín mezőben vegye fel a kívánt adatot.
 
 **Időbeli vonatkozás (Mikor?...)** esetén a kiválasztott eseménytípus cselekményének idejét (pl. készítés ideje, használat ideje, meghatározás időpontja) lehet megadni.
 
@@ -97,9 +97,9 @@ Az új időbeli vonatkozás felvételénél első lépésként ki kell választa
 
 ![Egy napra pontos dátum (…kisebb, mint egy év kategória) adatbázisban történő rögzítésének adatbeviteli űrlapja](../assets/hun_new_time03.jpg)
 
-![](../assets/hun_attention.jpg) **Ha az évszám 4-nél kevesebb számból áll** (pl. 263, 43, stb. Akkor ahhoz, hogy a rendszer kezelni tudja a számot, 0-val kell kipótolni a hiányzó helyi értékeket. Tehát a következő módon kell az évszámot megadni: 0263, 0043, stb.
+⚠️ **Ha az évszám 4-nél kevesebb számból áll** (pl. 263, 43, stb. Akkor ahhoz, hogy a rendszer kezelni tudja a számot, 0-val kell kipótolni a hiányzó helyi értékeket. Tehát a következő módon kell az évszámot megadni: 0263, 0043, stb.
 
-![](../assets/hun_attention.jpg) **Körülbelüli időpontok kifejezésére a Mikor és az időpont között megjelenő hármas egyenlőségjelre kattintással, és ezzel az egyenlőség hullámvonalra változtatásával van lehetőség. TILOS a „kb." és „körül" kifejezések használata!**
+⚠️ **Körülbelüli időpontok kifejezésére a Mikor és az időpont között megjelenő hármas egyenlőségjelre kattintással, és ezzel az egyenlőség hullámvonalra változtatásával van lehetőség. TILOS a „kb." és „körül" kifejezések használata!**
 
 ![Pl. „1932 körül” típusú adat beviteli módja](../assets/hun_approximetly_.jpg)
 
