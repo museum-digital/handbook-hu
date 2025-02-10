@@ -2,7 +2,7 @@
 
 Elsőként regisztrálja a tárgyat a rendszerben az alapadatok megadásával! Ezt a Tárgy menüpont mellett levő plusz jelre (+) kattintva teheti meg:
 
-![](../assets/hun_newobject_icon.jpg)
+<img src="../assets/hun_newobject_icon.jpg" style="max-width: 100%; height: auto;">
 
 **Az első négy adatmező** (Leltári szám, A tárgy típusa, a Tárgy megnevezése és a Leírás) **kötelezően kitöltendő! Figyelem!** Bármely adat hiánya esetén a rendszer NEM regisztrálja a tárgyat.
 
