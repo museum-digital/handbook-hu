@@ -22,7 +22,7 @@ működését zavarják.
    Az adatbázisba feltöltött tárgyak bármikor szerkeszthetőek, kiegészíthetőek és weben közzétehetőek. Fontos tudni, hogy a tárgy közzététel után különböző webes kereső rendszerek számára érzékelhetővé válik, és a felhasználók az adott link segítségével a tárgyakat be is köthetik a saját oldalukra. Lehetőség van egy tárgy -- és ezzel az összes a tárgyhoz kapcsolódó adat, kép, stb. -- rendszerből történő végleges törlésére is. Ebben az esetben azonban elvesznek a tárgyhoz kapcsolódó felhasználói linkek, külső utalások is.
 
 7. Bizonytalan az adatbevitel módjában?
-   Az adatmezők után található információs ikonra (lásd: ![](assets/information_questionmark.jpg) ) kattintva elolvashatja az adott mező kitöltési útmutatóját, illetve képek és dokumentumok feltöltésénél a felugró ablakban olvashat információkat a feltöltés kritériumairól.
+   Az adatmezők után található információs ikonra kattintva elolvashatja az adott mező kitöltési útmutatóját, illetve képek és dokumentumok feltöltésénél a felugró ablakban olvashat információkat a feltöltés kritériumairól.
 
 ------------------------------------------------------------------------
 
