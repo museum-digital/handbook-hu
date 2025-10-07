@@ -2,8 +2,6 @@
 
 ## Weblink, Dokumentum, Tárgy, Tárgycsoport opciók
 
-![További opciók az „Alapadatok" fülön](../assets/hun_sources.jpg)
-
 - Az itt megadott linkek, feltöltött dokumentumok, és létrehozott tárgykapcsolatok az adott tárgy publikussá tétele esetén a külső felhasználók számára
   is elérhetővé válnak a weboldalon, a tárgy adatainál. **A nagyközönség számára nem releváns tárgycsoportokat, szenzitív adatokat tartalmazó forrásokat és dokumentumokat ne hozzon létre, illetve itt ne töltsön fel!**
   

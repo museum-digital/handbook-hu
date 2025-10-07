@@ -10,8 +10,8 @@ A tárgyat leíró esemény az „Esemény hozzáadása!" opcióra kattintva meg
 
 A *Nyilvántartási rendeletben* meghatározott, leltárkönyvi adatok közül a rendszer többet is eseményként kezel. A leltárkönyvi rovatokat a következőképpen lehet megfeleltetni az eseményközpontú tárgyleírásnak:
 
-|---------------------------|--------------|----------|
 | Leltárkönyvi rovat        | Esemény      | Kérdőszó |
+|---------------------------|--------------|----------|
 | Kor (a készítés ideje)    | Készítés     | Mikor?   |
 | Keletkezés/készítés helye | Készítés     | Hol?     |
 | Készítő/alkotó neve       | Készítés     | Ki?      |
@@ -122,7 +122,7 @@ Listából választás esetén az adott listaelemre kattintás után, új vonatk
 
 **A felvett Esemény véglegesítése a „Küldés" gombra kattintással történik.**  Ennek hiányában az adatok elvesznek!
 
-Az Eseményként rögzített adatok -- és maga az Esemény típusa is -- bármikor módosíthatók, törölhetők és klónozhatók az Esemény adatok címkéjén megjelenő ![](../assets/hun_pen_icon17_ceruza.jpg) és ![](../assets/hun_litter_icon.jpg) valamint ![](../assets/hun_cards_icon.jpg) ikonok segítségével.
+Az Eseményként rögzített adatok -- és maga az Esemény típusa is -- bármikor módosíthatók, törölhetők és klónozhatók az Esemény adatok címkéjén megjelenő ikonok segítségével.
 
 ![Az Esemény adatok módosításának/törlésének/klónozásának ikonjai](../assets/hun_events_options_icon.jpg)
 
